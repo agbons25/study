@@ -1,1 +1,1 @@
-echo "This is a continous integration progam. I love not"
+echo "This is a continous integration progam. Sweet!"
